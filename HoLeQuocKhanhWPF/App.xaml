@@ -1,0 +1,42 @@
+﻿<Application x:Class="HoLeQuocKhanhWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HoLeQuocKhanhWPF"
+
+             xmlns:adminVM="clr-namespace:HoLeQuocKhanhWPF.ViewModels.Admins"
+             xmlns:adminView="clr-namespace:HoLeQuocKhanhWPF.Views.Admins"
+             xmlns:customerVM="clr-namespace:HoLeQuocKhanhWPF.ViewModels.Customers"
+             xmlns:customerView="clr-namespace:HoLeQuocKhanhWPF.Views.Customers"
+             
+             xmlns:base="clr-namespace:HoLeQuocKhanhWPF.ViewModels.Base"
+             
+             StartupUri="Views/LoginView.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/ModernStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <base:PasswordBoxesConverter x:Key="PasswordBoxesConverter"/>
+
+            <DataTemplate DataType="{x:Type adminVM:CustomerManagementViewModel}">
+                <adminView:CustomerManagementView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type adminVM:RoomManagementViewModel}">
+                <adminView:RoomManagementView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type adminVM:ReportViewModel}">
+                <adminView:ReportView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type customerVM:CustomerProfileViewModel}">
+                <customerView:CustomerProfileView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type customerVM:BookingHistoryViewModel}">
+                <customerView:BookingHistoryView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type customerVM:BookRoomViewModel}">
+                <customerView:BookRoomView/>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

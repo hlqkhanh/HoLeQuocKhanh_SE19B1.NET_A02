@@ -1,0 +1,96 @@
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\DAL\obj\Debug\net8.0\ref\DAL.dll

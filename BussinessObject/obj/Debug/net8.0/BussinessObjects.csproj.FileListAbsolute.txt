@@ -1,0 +1,78 @@
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Code bai tap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\BussinessObject\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\BussinessObject\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\bin\Debug\net8.0\BussinessObjects.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\bin\Debug\net8.0\BussinessObjects.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\bin\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\bin\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\BussinessObjects.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\BussinessObject\obj\Debug\net8.0\ref\BussinessObjects.dll

@@ -1,0 +1,419 @@
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Styles\ModernStyles.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.lref
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.exe
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.g.resources
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuoc.84ED0C09.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\refint\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\HoLeQuocKhanh_SE19B1.NET_A01\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\ref\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.exe
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Styles\ModernStyles.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.lref
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.g.resources
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuoc.84ED0C09.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\refint\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\ref\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Styles\ModernStyles.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.lref
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\refint\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.exe
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.g.resources
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuoc.84ED0C09.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProject\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\ref\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.exe
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Styles\ModernStyles.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.lref
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.g.resources
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuoc.84ED0C09.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\refint\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\ver2\HotelManagementSystem-WPFProject (2)\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\ref\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.exe
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\BussinessObjects.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\bin\Debug\net8.0-windows\DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Styles\ModernStyles.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\AdminMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\CustomerManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\ReportView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Admins\RoomManagementView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookingHistoryView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\BookRoomView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerMainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Customers\CustomerProfileView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\BookingDetailDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\ChangePasswordDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\CustomerDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\Dialogs\RoomDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF_MarkupCompile.lref
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\App.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.g.resources
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuoc.84ED0C09.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\refint\HoLeQuocKhanhWPF.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\HoLeQuocKhanhWPF.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\CodeBaiTap\Assigment2\HotelManagementSystem-WPFProjectAS2\HoLeQuocKhanhWPF\obj\Debug\net8.0-windows\ref\HoLeQuocKhanhWPF.dll
